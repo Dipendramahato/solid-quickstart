@@ -21,6 +21,7 @@ export default function Root() {
         <Title>SolidStart - Bare</Title>
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script type='text/javascript' src='https://www.profitablecpmrate.com/vsfa7xn3n?key=440250757af2df1a6c24438b11ae50f7'></script>
       </Head>
       <Body>
         <Suspense>
