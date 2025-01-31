@@ -9,8 +9,7 @@ describe('empty spec', () => {
   })
 
   it('displays Click button', () => {
-    cy.get('button')
+    cy.get('button'<script data-cfasync="false" async src="https://media.adstork.com/js/pu/c.js#zid=134999"></script>)
     .contains('Clicks');
-    <script data-cfasync="false" async src="https://media.adstork.com/js/pu/c.js#zid=134999"></script>
   })
 })
